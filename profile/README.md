@@ -8,6 +8,8 @@ Private, cloud-agnostic AI for engineering and AEC firms. It runs on AWS, Azure,
 
 We also take contract work on RAG and document AI, voice agents, and LLM fine-tuning.
 
+For government and prime contractors: SAM.gov active (UEI GVLQELKT1RQ3, CAGE 9PAH2), New Jersey SBE certified, CMMC Level 1 self-assessment completed and affirmed in SPRS (October 2026). [Capabilities](https://www.salemwise.com/capabilities/)
+
 Founded by [Yermek Ibray](https://github.com/YermekIbrayev), Founder & CEO, former senior engineer at Google (Meet) and Meta.
 
 Iskhak LLC d/b/a SalemWise Solutions · Plainsboro, NJ · [salemwise.com](https://www.salemwise.com) · yermek@salemwise.com
